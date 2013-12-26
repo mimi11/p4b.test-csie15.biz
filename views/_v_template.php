@@ -87,6 +87,6 @@
             <p>c.melhorn@g.harvard.edu</p>
         </div><!--end footer_left div-->
     </div><!--End of Footer div-->
-</div><!--end of wrapper-->
+
 </body>
 </html>
